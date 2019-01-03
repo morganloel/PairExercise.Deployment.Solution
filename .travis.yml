@@ -24,4 +24,4 @@ deploy:
   provider: heroku
   app: crossedwords # see README
   api_key:
-    secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+    secure: cM5+orePCU3jjobG/aAK+kHfUgTXa8mfYab7qm0nVxJ3RaPcE7tMmHfb9WbbpZpEESJ3/sqmjOJVfAQavTC2HPNnaWRt6bVrG3jg+EiRZVwo1PYKrNf9/CqoqExGHmYJosv/5f8gryvopR1QBL30ryLNRwJF5YqY1F++m3Y/1OFSBt5F5Cc+aMmGRAQoceBEdYxqf5qlNYTaDURcU7W9fo6Zqp+G2S0eu+QGEMzbAeQsmcG0QqbliDo8Iaj+coBnDQXFx6YZgkb7MSJFXPdhuppuYtHsbY4ZjzwFViDZw+HZBK5ntQ2rXnglHI/FLAi62uYXMjNpZodONoefqVSnXAseP51pHw950i6AqJmjcy3Zea+Oal6P1s+m9N3ssCHt4V+NWK9gvAA1+U59WLhQZ2qjCKWsN8WLxtBS4s4kuKXeprpy8AtWV+LNvhJTktWtwunf8JJBR4FyJmbTdT7LSwQWbbGB7emeisxoJL4tCuRyf9kLYNPam88ToMH00Y4Kd6Lo3sdpwIQ6iQIPhA+drZl3akFhR90Gh1HFhjb/R4E54zM+ouyaTNuRNB6dX/JUoDKKGG4yFk8jjYpoCf0Zd+Gc6dvLPBvHIAzil957B4WTIEeSGYt1iU6VOhk/wmGHuH1uA9o6HeTMfzqcSNerZ4Pn1lqb2+uuE3KaOCrI7xQ=
